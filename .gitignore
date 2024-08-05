@@ -1,0 +1,14 @@
+.out
+*.o
+calc
+test
+*.exe
+CMakeLists.txt
+build/
+html/
+latex/
+.vscode
+*.yml
+*.spec
+control
+doxy
